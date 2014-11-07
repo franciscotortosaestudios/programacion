@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- created with XMLSpear -->
+<eventos>
+	<evento id="1">
+		<señal>accidente</señal>
+		<puntokm>42200</puntokm>
+		<via>A49</via>
+		<Sentido>Huelva</Sentido>
+		<CorteVia tipo="carril" id="1"/>
+		<Horarioevento fecha="" Hora="" />
+		<Retenciones retencion="si" kms="8"/>
+	</evento>	
+	<evento id="2">
+		<señal>retencion</señal>
+		<puntokm>550</puntokm>
+		<via>A4</via>
+		<sentindo>sevilla</sentindo>
+		<Horario fecha="" hora="" />
+		<retenciones tencion="si" kms="3"/>
+	</evento>
+</eventos>
